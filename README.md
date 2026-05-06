@@ -11,4 +11,6 @@ Gleam 言語の勉強用リポジトリです。
   - [Gleam for Python users](https://gleam.run/cheatsheets/gleam-for-python-users)
   - [Gleam for Rust users](https://gleam.run/cheatsheets/gleam-for-rust-users)
   - [FAQ](https://gleam.run/frequently-asked-questions/)
+- [gleam_cheatsheets](https://github.com/NicklasXYZ/gleam_cheatsheets)
 - [Gleam言語の日本コミュニティ](https://gleam-jp.org)
+- [Gleam Language Tour(日本語版)](https://gleam.lavoscore.org)
